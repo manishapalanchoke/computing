@@ -1,0 +1,49 @@
+*{
+	padding:0px;
+	margin:0px;
+}
+h1{
+	text-align:center;
+	color:black;
+	background-color:#ffc9ff;
+	padding:60px;
+}
+.left{
+	text-align:center;
+	width:20%;
+	height:600px;
+	float:left;
+	background-color:#ff99ff;
+	line-height:600px;
+}
+.middle{
+	text-align:center;
+	width:1141px;
+	height:600px;
+	float:left;
+	line-height:600px;
+	vertical-align:middle;
+}
+.right{
+	text-align:center;
+	width:20%;
+	height:600px;
+	float:right;
+	background-color:#ff99ff;
+	line-height:600px;
+}
+.footer{
+	text-align:center;
+	color:black;
+	background-color:#cb87f5;
+	width:100%;
+	clear:both;
+	padding:60px;
+}
+.nav {
+	background-color:#9a14ec;
+	text-align:center;
+	color:white;
+	padding:40px;
+	font-size:25px;
+}
